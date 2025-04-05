@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Firman 👋
 
-<!--
-**18firman/18firman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Passionate about statistics, SPSS, and reproducible research  
+📊 Creator of [Regression with SPSS](https://github.com/18firman/regression-with-spss)  
+🧠 Always learning & sharing statistical analysis with syntax
 
-Here are some ideas to get you started:
+## 🔧 Tools & Skills
+- SPSS, R, Python (pandas, matplotlib)
+- Regression, ANOVA, SEM
+- Git & GitHub, Markdown, LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Firman's GitHub stats](https://github-readme-stats.vercel.app/api?username=18firman&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18firman&layout=compact)
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/firmaan)
